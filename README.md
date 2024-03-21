@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nathan-7hills
 - 👀 I’m interested in systematic trading strategies across asset classes
-- 🌱 I’m currently advancingn my python skills, dabbling in C++ 
+- 🌱 I’m currently advancing my python skills, dabbling in C++ 
 - 💞️ I’m looking to collaborate on any financial related dev is of interest to me
 - 📫 How to reach me nathan@7hills.capital
 - 😄 Pronouns: he/him
