@@ -5,6 +5,7 @@
 - 📫 How to reach me nathan@7hills.capital
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: my 3 yr old Corgi is named Winston
+- my alignment is chaotic good
 
 <!---
 nathan-7hills/nathan-7hills is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
